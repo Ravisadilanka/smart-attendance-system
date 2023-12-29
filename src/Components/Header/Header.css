@@ -1,0 +1,14 @@
+.title{
+    background-color: #2C3268DB;
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+}
+
+h1{
+    color: white;
+    font-size: 50px;
+    font-family: Inter;
+    font-weight: 800;
+    word-wrap: break-word
+}
